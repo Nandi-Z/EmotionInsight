@@ -1,0 +1,8 @@
+
+{
+  "name": "EmotionInsight - Sentiment Intelligence System",
+  "description": "An advanced AI-powered sentiment analysis dashboard for deep emotional insights, entity tracking, and batch text processing using Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
